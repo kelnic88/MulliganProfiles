@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using SmartBot.Database;
-//hello
+
 namespace SmartBotUI.Mulligan
 {
     public static class Extension
